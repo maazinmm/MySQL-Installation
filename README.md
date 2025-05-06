@@ -170,3 +170,6 @@ Insert data into the table
 ![image](https://github.com/user-attachments/assets/867cbec8-679a-43e4-b4ca-7228a79daa88)
 
 View the data in the table
+
+### The MySQL Shell Database and Table from MySQL Workbench
+![image](https://github.com/user-attachments/assets/78d9f170-2703-41f9-9474-aedb5c677fd6)
