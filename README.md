@@ -169,4 +169,4 @@ View all the information in the "country" table within the "world" database.
 <sub>View the data in the table</sub>
 
 ### The MySQL Shell Database and Table from MySQL Workbench
-![image](https://github.com/user-attachments/assets/78d9f170-2703-41f9-9474-aedb5c677fd6)
+![image](https://github.com/user-attachments/assets/fa684906-d4d5-42cd-873b-e38bebdb707f)
