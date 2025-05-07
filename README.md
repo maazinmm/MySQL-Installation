@@ -155,21 +155,18 @@ View the tables in the particular database.
 View all the information in the "country" table within the "world" database.
 
 ## Create a database
-Create a database and initialize it
+#### Create a database and initialize it
 
 ![image](https://github.com/user-attachments/assets/09b485aa-d321-44aa-855e-1d7d5b49358a)
 
-![image](https://github.com/user-attachments/assets/742d240c-4020-4212-a1f5-6583e829a6bf)
+![image](https://github.com/user-attachments/assets/f378e31e-898d-4598-8600-cd8d1563d815)
+<sub>Create a table</sub>
 
-Create a table
+![image](https://github.com/user-attachments/assets/3aedfc70-8dc0-40b6-879a-bdfb218c37f8)
+<sub>Insert data into the table</sub>
 
-![image](https://github.com/user-attachments/assets/47a2f297-88c6-4429-a5df-0d2f5a10bf7f)
-
-Insert data into the table
-
-![image](https://github.com/user-attachments/assets/867cbec8-679a-43e4-b4ca-7228a79daa88)
-
-View the data in the table
+![image](https://github.com/user-attachments/assets/da84c093-cfbd-4929-a5b2-d943250618ed)
+<sub>View the data in the table</sub>
 
 ### The MySQL Shell Database and Table from MySQL Workbench
 ![image](https://github.com/user-attachments/assets/78d9f170-2703-41f9-9474-aedb5c677fd6)
